@@ -1,0 +1,4 @@
+RENCANA PKL SMKN MANONJAYA
+- membuat aplikasi kas warga
+- membuat website perorang 
+- membuat laporan yang keren
