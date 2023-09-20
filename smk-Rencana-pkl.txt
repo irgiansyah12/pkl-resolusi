@@ -1,8 +1,8 @@
 RENCANA PKL SMKN MANONJAYA
 - membuat aplikasi kas warga
 *vscode
-- html
-- css
+-laravel
+-pyton
 *sublimt text
 - memperdalam laravel
 - membuat website perorang 
